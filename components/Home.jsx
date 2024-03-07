@@ -10,7 +10,7 @@ const Home = () => {
                 <div className="lg:max-w-lg">
                     <h1 className="text-4xl font-semibold text-[#FC800A] dark:text-white lg:text-6xl">Raat Biraat</h1>
                     
-                    <p className="mt-3 text-gray-600 dark:text-gray-400">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Porro beatae error laborum ab amet sunt recusandae? Reiciendis natus perspiciatis optio.</p>
+                    <p className="mt-3 text-gray-600 dark:text-gray-400">By the students to the students for the students.</p>
                     
                     <button className="w-full px-5 py-2 mt-6 text-sm tracking-wider text-white uppercase transition-colors duration-300 transform bg-[#FC800A] rounded-lg lg:w-auto hover:bg-[#ce833d] focus:outline-none focus:bg-[#ce833d]">Order Now</button>
                 </div>
